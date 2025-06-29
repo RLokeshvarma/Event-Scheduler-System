@@ -15,6 +15,20 @@ A simple yet powerful event scheduling system built with Python and Flask. This 
 
 ---
 
+## 🛠 Tools & Technologies Used
+
+| Tool            | Purpose                         |
+|-----------------|----------------------------------|
+| Python 3.x      | Backend logic                   |
+| Flask           | REST API framework              |
+| schedule        | Time-based task scheduler       |
+| smtplib/email   | Email reminders                 |
+| dotenv          | Environment variable management |
+| Postman         | API Testing & Collection Sharing|
+
+---
+
+
 ## 🛠️ How the Project Works
 
 ### 🔹 1. Start the Flask API Server
