@@ -1,0 +1,56 @@
+[
+  {
+    "id": "59cff064-e9e4-4e4b-882d-a7d1712ae1b4",
+    "title": "Test Reminder",
+    "description": "This should trigger reminder",
+    "start_time": "2025-06-29 11:45",
+    "end_time": "2025-06-29 12:15"
+  },
+  {
+    "id": "94b6728b-b45e-4089-86c3-ae52989b773c",
+    "title": "Demo Meeting",
+    "description": "First API test",
+    "start_time": "2025-07-01 10:00",
+    "end_time": "2025-07-01 11:00"
+  },
+  {
+    "id": "1bb6ae8c-dc14-4b0a-b3f8-0a6a4af01f9f",
+    "title": "Doctor Appointment",
+    "description": "Routine check-up",
+    "start_time": "2025-07-01 12:00",
+    "end_time": "2025-07-01 13:00",
+    "recurrence": "daily"
+  },
+  {
+    "id": "30939bcb-c252-453b-89bb-a06737185ef7",
+    "title": "Doctor Appointment",
+    "description": "Routine check-up",
+    "start_time": "2025-07-01 12:40",
+    "end_time": "2025-07-01 13:00",
+    "recurrence": "daily"
+  },
+  {
+    "id": "7476fcc7-a0fa-44fc-8eb2-0da4732ff97d",
+    "title": "Doctor Appointment",
+    "description": "Routine check-up",
+    "start_time": "2025-07-01 13:10",
+    "end_time": "2025-07-01 13:40",
+    "recurrence": "daily"
+  },
+  {
+    "id": "1fb62e9d-4943-4ed3-88e6-8bc7c7168b3a",
+    "title": "Doctor Appointment",
+    "description": "Routine check-up",
+    "start_time": "2025-07-01 14:00",
+    "end_time": "2025-07-01 15:00",
+    "recurrence": "weekly"
+  },
+  {
+    "id": "7b31764e-3f81-4f08-ac6a-7e2079641572",
+    "title": "Doctor Appointment",
+    "description": "Routine check-up",
+    "start_time": "2025-06-29 15:40",
+    "end_time": "2025-06-29 16:50",
+    "recurrence": "daily"
+  }
+]

@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "84035d33-9677-4ff0-ba16-a12eee30aafe",
+		"name": "Event-Scheduler-System",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46281440",
+		"_collection_link": "https://rlokeshvarma.postman.co/workspace/R-Lokesh-Varma's-Workspace~38210b98-9010-4cef-82d8-a8865a6b63bf/collection/46281440-84035d33-9677-4ff0-ba16-a12eee30aafe?action=share&source=collection_link&creator=46281440"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
